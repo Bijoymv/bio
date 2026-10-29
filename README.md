@@ -5,17 +5,11 @@ I'm a Software Engineer based in the Greater Stockholm area, passionate about bu
 ---
 
 ### 🛠️ Tech Stack & Tools
-- **Languages:** JavaScript, TypeScript, Python, Go
-- **Frontend:** React, Next.js, HTML5, CSS3, Tailwind CSS
-- **Backend & APIs:** Node.js, Express, RESTful APIs
-- **Databases & DevOps:** PostgreSQL, Git, Docker, CI/CD pipelines
+- **Languages:** JavaScript, TypeScript
+- **Frontend:** React, Next.js
+- **Backend & APIs:** Node.js, Express, RESTful APIs, GraphQL
+- **Databases & DevOps:** Mysql, Git, Docker, CI/CD pipelines
 
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bijoy-vidyadharan&show_icons=true&theme=radical" alt="Bijoy's GitHub Stats" />
-</p>
 
 ---
 
