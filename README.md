@@ -1,8 +1,23 @@
-- 👋 Hi, I’m Bijoy Moolekkadan Vidyadharan
-- 👀 I’m interested in building Web Mobile Javascript applications 
-- 📫 How to reach me Email: mv.bijoy@gmail.com
+### Hi there, I'm Bijoy 👋
 
-<!---
-Bijoymv/Bijoymv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Software Engineer based in the Greater Stockholm area, passionate about building robust web applications, scalable systems, and contributing to the open-source developer community.
+
+---
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** JavaScript, TypeScript, Python, Go
+- **Frontend:** React, Next.js, HTML5, CSS3, Tailwind CSS
+- **Backend & APIs:** Node.js, Express, RESTful APIs
+- **Databases & DevOps:** PostgreSQL, Git, Docker, CI/CD pipelines
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bijoy-vidyadharan&show_icons=true&theme=radical" alt="Bijoy's GitHub Stats" />
+</p>
+
+---
+
+### 📬 Let's Connect
+- **LinkedIn:** [bijoy-vidyadharan](https://www.linkedin.com/in/bijoy-vidyadharan/)
